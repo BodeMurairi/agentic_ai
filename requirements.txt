@@ -1,3 +1,5 @@
 google-adk
 aiohttp[speedups]
 aiodns
+litellm
+python-dotenv
